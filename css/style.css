@@ -271,7 +271,7 @@ footer p {
 
 .versal {
   width: 428px;
-  float: right;
+  margin: auto;
   border: 8px solid white;
   display: block;
 }
